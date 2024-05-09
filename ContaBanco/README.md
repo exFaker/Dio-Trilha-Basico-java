@@ -1,18 +1,29 @@
-## Getting Started
+# Cadastro de Banco Básico em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um sistema simples de cadastro de banco que permite ao usuário digitar seu nome, código e saldo, e realizar saques.
 
-## Folder Structure
+## Como Usar
 
-The workspace contains two folders by default, where:
+1. **Clone o repositório para a sua máquina local:**
+   ```sh
+   git clone https://github.com/rXavier-L/Dio-Trilha-Basico-java/edit/main/ContaBanco
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+   javac ContaBanco.java
+   
+## Dependências
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Este projeto requer o JDK (Java Development Kit) instalado em sua máquina.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR.
 
-## Dependency Management
+## Autor
+R. Xavier
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Documentação
+Para mais informações, consulte a documentação do Java.
+
+## Considerações Finais
+Continue aprendendo e desenvolvendo em Java!
+
+Este projeto faz parte do curso de Java da Digital Innovation One.
