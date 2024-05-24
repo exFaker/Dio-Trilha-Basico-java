@@ -1,34 +1,18 @@
-# Cadastro de Banco Básico em Java
+## Getting Started
 
-Um sistema simples de cadastro de banco que permite ao usuário digitar seu nome, código e saldo, e realizar saques.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Como Usar
+## Folder Structure
 
-1. **Clone o repositório para a sua máquina local:**
-   ```sh
-   git clone https://github.com/rXavier-L/Dio-Trilha-Basico-java/edit/main/ContaBanco
+The workspace contains two folders by default, where:
 
-   javac ContaBanco.java
-   
-## Dependências
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Este projeto requer o JDK (Java Development Kit) instalado em sua máquina.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um PR.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Autor
-R. Xavier
+## Dependency Management
 
-## 🔗 Meus Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/rXavier-L/rxavier-l.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-xavier-8a4248229/)
-[![instagram](https://img.shields.io/badge/instaram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oxe_ramon/)
-
-## Documentação
-Para mais informações, consulte a documentação do Java.
-
-## Considerações Finais
-Continue aprendendo e desenvolvendo em Java!
-
-Este projeto faz parte do curso de Java da Digital Innovation One.
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
